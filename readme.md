@@ -10,9 +10,7 @@
 />
   <img src="https://github-readme-stats.vercel.app/api?username=Nonlandz&show_icons=true" />
 
-
-
 </picture>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nonlandz)](https://github.com/Nonlandz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nonlandz&layout=donut)](https://github.com/Nonlandz/github-readme-stats)
 
